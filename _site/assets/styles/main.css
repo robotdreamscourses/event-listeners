@@ -1,0 +1,14 @@
+.bigHeadLine {
+  color:red;
+  font-size: 64px;
+}
+
+.headline {
+  color:blue;
+  font-size: 32px;
+}
+
+.btn-clicked {
+  background-color: green;
+  color: white;
+}
